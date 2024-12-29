@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  schedule: # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: itzrushp
+          outputs: dist/snake.svg
+
+      - name: Push the animation to the repository
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
