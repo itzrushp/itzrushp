@@ -69,17 +69,15 @@ Other      ████░░░░░░░░░░░░░░░░░░ 10
 - 🚀 Master Advanced React Patterns
 - 🤖 Build an ML-powered personal project
 - 📚 Contribute to open-source projects
-- 🏆 Reach 2000 ELO in Chess
+- 🏆 Reach 1800 ELO in Chess
 
+## Coding Humour
 <div align="center"> 
   <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke"/> <br/> 
   <img src="https://komarev.com/ghpvc/?username=itzrushp&color=blueviolet" alt="Profile views"/> 
 </div> 
-<div align="center"> 
-  ⏳ 2024 Progress Bar: <br/> █████████████████████████████░ 99.19% <br/> 
-  Last updated: December 29, 2024 
-</div>
 
-<div align="center">
+
+<!--<div align="center">
   <img src="https://github.com/itzrushp/itzrushp/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</div>
+</div>-->
