@@ -1,9 +1,9 @@
 # Hi there! I'm Rush 👋
 ### Full Stack Developer | ML Enthusiast | Chess Player ♟️
 
-<div align="center">
+<!---<div align="center">
   <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" alt="Coding animation" width="200"/>
-</div>
+</div>-->
 
 <div align="center">
   <a href="https://twitter.com/rush_blah" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" /></a>&nbsp;&nbsp;
