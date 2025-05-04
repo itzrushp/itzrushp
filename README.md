@@ -26,23 +26,10 @@ const rush = {
 ## 🚀 Tech Universe
 
 <div align="center"> 
-
-### Frontend Galaxy 🌟
-
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45"/>  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="45" height="45"/>  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="NextJS" width="45" height="45"/>
-
-### Backend Constellation ⚡
-
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="45" height="45"/>  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="45" height="45"/>  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/>  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="45" height="45"/>
-
-### Database Nebula 🌌
-
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45"/>  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="45" height="45"/>  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="45" height="45"/>
-
-### Cloud & Tools Black Hole 🌑
-
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="45" height="45"/>  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="45" height="45"/>
-
 </div> 
 
 ## 📊 GitHub Analytics
@@ -55,14 +42,6 @@ const rush = {
 <div align="center"> 
 </div> 
 
-## ⚡ Weekly Code Warriors
-
-```text
-JavaScript ████████████████████░░░░ 50.0% │ 12h 30m 
-React      ████████████░░░░░░░░░░░ 25.0% │ 6h 15m 
-Python     ██████░░░░░░░░░░░░░░░░ 15.0% │ 3h 45m 
-Other      ████░░░░░░░░░░░░░░░░░░ 10.0% │ 2h 30m
-```
 
 ## 🎯 Current Goals
 
