@@ -6,9 +6,9 @@
 </div>-->
 
 <div align="center">
-  <a href="https://twitter.com/rush_blah" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/rush_blah" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp;&nbsp;
-  <a href="http://discord.com/users/rush#4040" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" height="30" width="30" /></a>
+  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rushp/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord" height="30" width="30" /></a>
 </div>
 
 ## 💫 About Me
